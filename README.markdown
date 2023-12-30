@@ -1,5 +1,5 @@
 # ZK #
-
+##
 ![Build Status](https://github.com/zk-ruby/zk/actions/workflows/build.yml/badge.svg)
 
 ZK is an application programmer's interface to the Apache [ZooKeeper][] server. It is based on the [zookeeper gem][] which is a multi-Ruby low-level driver. Currently MRI 1.8.7, 1.9.2, 1.9.3, REE, and JRuby are supported. Rubinius 2.0.testing is supported-ish (it's expected to work, but upstream is unstable, so YMMV).
